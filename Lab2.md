@@ -1,6 +1,3 @@
-Untitled
-================
-
 # Лабораторна робота № 2. Функції lapply, sapply, split
 
 ## Task 1
